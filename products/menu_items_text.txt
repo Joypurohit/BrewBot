@@ -1,0 +1,20 @@
+Menu Items
+Cappuccino - ₹375  
+Jumbo Savory Scone - ₹270  
+Latte - ₹395  
+Chocolate Chip Biscotti - ₹210  
+Espresso Shot - ₹165  
+Hazelnut Biscotti - ₹230  
+Chocolate Croissant - ₹310  
+Dark Chocolate (Drinking Chocolate) - ₹415  
+Cranberry Scone - ₹290  
+Croissant - ₹270  
+Almond Croissant - ₹330  
+Ginger Biscotti - ₹210  
+Oatmeal Scone - ₹270  
+Ginger Scone - ₹290  
+Chocolate Syrup - ₹125  
+Hazelnut Syrup - ₹125  
+Caramel Syrup - ₹125  
+Sugar-Free Vanilla Syrup - ₹125  
+Dark Chocolate (Packaged Chocolate) - ₹250
